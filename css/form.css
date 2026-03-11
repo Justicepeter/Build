@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+form{
+    /* background-color: aqua; */
+    width: 30%;
+    margin: 5px auto;
+    padding: 22px;
+    border-radius: 15px;
+    box-shadow: 2px 3px 7px #ccc;
+    /* background-image: url('../image/photo-1766767673683-168676b97f4c.avif'); */
+    background: url('../image/premium_photo-1766340004448-40d36dea4bfc.avif')center/cover no-repeat;
+    /* background: url("../image/photo-1766246150928-80b214cb2402.avif")center/cover no-repeat; */
+}
+
+.form-group{
+    margin-bottom: 5px;
+}
+.form-control{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    /* border: none; */
+}
+.sub{
+    padding: 10px;
+    border-radius: 5px;
+    border:none;
+}
